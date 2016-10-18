@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         
         self.view.backgroundColor = UIColor.redColor()
         self.view.backgroundColor = UIColor.blueColor()
+
+        self.view.backgroundColor = UIColor.yellowColor()
+        self.view.backgroundColor = UIColor.yellowColor()
     }
 
     override func didReceiveMemoryWarning() {
